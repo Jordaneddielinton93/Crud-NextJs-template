@@ -1,0 +1,21 @@
+.nav{
+  width: 180px;
+  min-width: 180px;
+  height: 100%;
+  /* background-color:pink ; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav_list{
+  width: 90%;
+  height: 95%;
+  background-color:#1D1932 ;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  flex-flow: column;
+  padding: 10px 0px;
+}
